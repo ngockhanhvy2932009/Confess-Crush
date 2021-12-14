@@ -1,13 +1,10 @@
 const CONFIG = {
-    titleWeb: "Gửi my babe",
-    introTitle: 'Aiu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Phải coi đến cùng nha",
+    introTitle: 'My babe',
+    introDesc: `Khồn coi đến cùng là tớ sẽ tới nhà cậu đó`,
     btnIntro: '^^HiHi^^',
     title: ' Cậu thích tớ phải khônggggg 🥰',
-    desc: 'Yêu thì yêu không yêu thì vẫn phải yêu thôi ',
+    desc: 'Không thích cũng phải thích thôi ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
