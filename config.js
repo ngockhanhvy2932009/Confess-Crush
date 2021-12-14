@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Phải coi đến cùng nha",
     introTitle: 'My babe',
-    introDesc: `Khồn coi đến cùng là tớ sẽ tới nhà cậu đó`,
+    introDesc: `Không coi đến cùng là tớ sẽ tới nhà cậu đó`,
     btnIntro: '^^HiHi^^',
     title: ' Cậu thích tớ phải khônggggg 🥰',
     desc: 'Không thích cũng phải thích thôi ',
